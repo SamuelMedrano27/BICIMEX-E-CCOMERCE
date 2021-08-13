@@ -1,0 +1,8 @@
+{
+  "name": "jochizan/bicimex",
+  "description": "Ecommerce with mysql, javscript and php",
+  "license": "MIT",
+  "require": {
+    "php": "~8"
+  }
+}

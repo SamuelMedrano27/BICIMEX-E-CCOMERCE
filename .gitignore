@@ -1,0 +1,10 @@
+
+# dependencies composer
+vendor/
+
+# dependencies npm
+
+node_modules/
+
+# enviroment variables
+.env
